@@ -2,6 +2,9 @@
 Modal Popup Box with CSS &amp; Javascript
 
 No modelo de estudo de hoje, vou reproduzir um exemplo obtido pelo vídeo do canal Online Tutorials
+Alguns efeitos serão aplicados sobre os botões, modo como o formulário aparece para o usuário.
+É básico bacana para quem está aprendendo, ;)
+
 <pre>
   <code>
     https://www.youtube.com/watch?v=bGNeZ6P3nqU
