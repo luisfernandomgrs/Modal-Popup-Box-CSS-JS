@@ -13,4 +13,4 @@ Modal Popup Box with CSS &amp; Javascript
 
 <h2>Modelo de como será o projeto final</h2>
 
-![Newsletter Popup Box _ Vanilla Javascript - Pessoal — Microsoft​ Edge 23_01_2021 15_29_25](https://user-images.githubusercontent.com/72364037/105611602-03c9d000-5d95-11eb-908b-0c0bd569c43d.png)
+![Newsletter Popup Box _ Vanilla Javascript - Pessoal](https://user-images.githubusercontent.com/72364037/105612312-024ed680-5d9a-11eb-9bef-b3f0ce979fe6.jpg)
